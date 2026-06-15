@@ -3,7 +3,7 @@
  (feito por um iniciante em python.)
 ## Como usar
 tenha:
-pip install colorama
-python terry.py
-e respostas.txt
+pip install colorama,
+python terry.py,
+e respostas.txt,
 CLONE O REPOSITORIO.
