@@ -1,0 +1,1114 @@
+o que é python|Python é uma linguagem de programação de alto nível, simples de aprender e muito poderosa. Ela é usada em desenvolvimento web, automação, análise de dados, inteligência artificial e muitas outras áreas.
+
+quem criou python|Python foi criado por Guido van Rossum em 1991. Ele queria uma linguagem fácil de ler e escrever, com foco em produtividade.
+
+para que serve python|Python serve para criar sites, sistemas, jogos simples, automações, inteligência artificial, análise de dados e muito mais.
+
+o que é programação|Programação é o processo de criar instruções que um computador deve seguir para executar tarefas específicas.
+
+o que é variável|Uma variável é um espaço na memória usado para armazenar dados que podem ser alterados durante a execução do programa.
+
+o que é função|Uma função é um bloco de código reutilizável que executa uma tarefa específica quando chamada.
+
+o que é lista|Uma lista é uma estrutura de dados que armazena vários valores em uma única variável, podendo ser alterada.
+
+o que é dicionário|Um dicionário é uma estrutura que armazena dados em pares de chave e valor, permitindo acesso rápido às informações.
+
+o que é tupla|Uma tupla é parecida com uma lista, mas é imutável, ou seja, não pode ser alterada depois de criada.
+
+o que é loop|Loop é uma estrutura que repete um bloco de código várias vezes enquanto uma condição for verdadeira.
+
+o que é for|For é um tipo de loop usado quando sabemos o número de repetições.
+
+o que é while|While é um loop que continua repetindo enquanto uma condição for verdadeira.
+
+o que é if|If é uma estrutura de decisão que executa um bloco de código se uma condição for verdadeira.
+
+o que é else|Else é usado quando a condição do if não é verdadeira.
+
+o que é elif|Elif permite testar múltiplas condições diferentes em sequência.
+
+o que é string|String é um tipo de dado usado para representar texto.
+
+o que é int|Int é um tipo de dado que representa números inteiros.
+
+o que é float|Float é um tipo de dado que representa números com casas decimais.
+
+o que é bool|Bool é um tipo de dado que representa verdadeiro ou falso.
+
+o que é algoritmo|Um algoritmo é uma sequência lógica de passos usados para resolver um problema.
+
+o que é bug|Bug é um erro no código que faz o programa funcionar de forma errada.
+
+o que é debug|Debug é o processo de encontrar e corrigir erros no código.
+
+o que é IDE|IDE é um ambiente de desenvolvimento que ajuda a escrever, testar e organizar código.
+
+o que é vscode|VS Code é um editor de código muito usado por programadores.
+
+o que é terminal|Terminal é uma interface onde você pode executar comandos diretamente no sistema.
+
+o que é print|Print é uma função usada para mostrar informações na tela.
+
+o que é input|Input é uma função usada para receber dados do usuário.
+
+o que é len|Len retorna a quantidade de elementos em uma lista ou caracteres em uma string.
+
+o que é type|Type mostra o tipo de dado de uma variável.
+
+o que é import|Import é usado para trazer bibliotecas externas para o programa.
+
+o que é função em python|Funções em Python são blocos de código que podem ser reutilizados várias vezes para evitar repetição e organizar melhor o programa.
+
+o que é módulo|Módulo é um arquivo Python que contém funções e códigos que podem ser reutilizados em outros programas.
+
+o que é biblioteca|Biblioteca é um conjunto de módulos prontos que ajudam a programar mais rápido.
+
+o que é pip|Pip é o gerenciador de pacotes do Python usado para instalar bibliotecas.
+
+o que é json|JSON é um formato leve de troca de dados usado para armazenar e enviar informações.
+
+o que é api|API é uma interface que permite que dois sistemas diferentes se comuniquem.
+
+o que é backend|Backend é a parte de um sistema que roda no servidor e processa dados.
+
+o que é frontend|Frontend é a parte visual de um sistema que o usuário interage.
+
+o que é fullstack|Fullstack é um desenvolvedor que trabalha tanto no frontend quanto no backend.
+
+o que é git|Git é um sistema de controle de versão que salva mudanças no código.
+
+o que é github|GitHub é uma plataforma onde você pode armazenar e compartilhar projetos usando Git.
+
+o que é commit|Commit é uma “foto” do projeto em um momento específico.
+
+o que é branch|Branch é uma linha paralela de desenvolvimento dentro de um projeto.
+
+o que é merge|Merge é a união de mudanças de diferentes branches.
+
+o que é push|Push envia mudanças do computador para o GitHub.
+
+o que é pull|Pull traz mudanças do GitHub para o computador.
+
+o que é clone|Clone copia um repositório inteiro do GitHub para o seu computador.
+
+o que é html|HTML é a linguagem usada para criar a estrutura de páginas web.
+
+o que é css|CSS é usado para estilizar páginas web, como cores e layout.
+
+o que é javascript|JavaScript é uma linguagem que adiciona interatividade às páginas web.
+
+o que é site|Site é um conjunto de páginas acessadas pela internet.
+
+o que é web|Web é o sistema que permite acessar sites na internet.
+
+o que é navegador|Navegador é um programa usado para acessar sites.
+
+o que é http|HTTP é o protocolo usado para comunicação na web.
+
+o que é https|HTTPS é a versão segura do HTTP.
+
+o que é domínio|Domínio é o endereço de um site na internet.
+
+o que é banco de dados|Banco de dados é um sistema usado para armazenar e organizar informações.
+
+o que é sql|SQL é uma linguagem usada para consultar e manipular bancos de dados.
+
+o que é mysql|MySQL é um sistema de banco de dados muito usado.
+
+o que é sqlite|SQLite é um banco de dados leve que funciona em um único arquivo.
+
+o que é postgresql|PostgreSQL é um banco de dados avançado e poderoso.
+
+o que é tabela|Tabela é onde os dados são organizados em linhas e colunas.
+
+o que é linha|Linha é um registro individual dentro de uma tabela.
+
+o que é coluna|Coluna representa um tipo de dado dentro da tabela.
+
+o que é query|Query é uma consulta feita em um banco de dados.
+
+o que é servidor|Servidor é um computador que fornece serviços para outros dispositivos.
+
+o que é inteligência artificial|Inteligência artificial é a capacidade de máquinas simularem a inteligência humana.
+
+o que é machine learning|Machine learning é uma técnica onde computadores aprendem com dados.
+
+o que é rede neural|Rede neural é um modelo inspirado no cérebro humano usado em IA.
+
+o que é deep learning|Deep learning é uma forma avançada de machine learning com redes neurais profundas.
+
+o que é chatbot|Chatbot é um programa que simula uma conversa com humanos.
+
+o que é dataset|Dataset é um conjunto de dados usado para treinar modelos de IA.
+
+o que é automação|Automação é o uso de tecnologia para executar tarefas automaticamente.
+
+o que é modelo de IA|Modelo de IA é um sistema treinado para tomar decisões ou prever resultados.
+o que é lógica de programação|Lógica de programação é a forma de pensar e organizar passos para resolver problemas com código.
+
+o que é algoritmo eficiente|É um algoritmo que resolve problemas usando menos tempo e menos recursos.
+
+o que é erro de sintaxe|Erro de sintaxe acontece quando o código está escrito de forma incorreta e o programa não entende.
+
+o que é erro de lógica|Erro de lógica acontece quando o programa roda, mas o resultado está errado.
+
+o que é exceção|Exceção é um erro que acontece durante a execução do programa.
+
+o que é try|Try é usado para testar um bloco de código que pode dar erro.
+
+o que é except|Except captura e trata erros que acontecem no try.
+
+o que é finally|Finally executa código independente de erro ou não.
+
+o que é lista em python|Lista é uma estrutura que armazena vários valores em uma única variável.
+
+o que é append|Append adiciona um item ao final de uma lista.
+
+o que é remove|Remove elimina um item de uma lista.
+
+o que é pop|Pop remove e retorna um item da lista.
+
+o que é sort|Sort organiza os elementos de uma lista.
+
+o que é reverse|Reverse inverte a ordem de uma lista.
+
+o que é index|Index retorna a posição de um elemento na lista.
+
+o que é slicing|Slicing é pegar partes de uma lista ou string.
+
+o que é string em python|String é um tipo de dado usado para texto.
+
+o que é concatenação|Concatenação é juntar textos.
+
+o que é f-string|F-string é uma forma moderna de formatar texto no Python.
+
+o que é operador|Operador é um símbolo que realiza operações como soma ou comparação.
+
+o que é operador lógico|Operador lógico compara condições (and, or, not).
+
+o que é and|And só retorna verdadeiro se todas as condições forem verdadeiras.
+
+o que é or|Or retorna verdadeiro se pelo menos uma condição for verdadeira.
+
+o que é not|Not inverte o valor lógico.
+
+o que é comparação|Comparação verifica se valores são iguais, maiores ou menores.
+
+o que é ==|== verifica se dois valores são iguais.
+
+o que é !=|!= verifica se dois valores são diferentes.
+
+o que é maior que|> verifica se um valor é maior que outro.
+
+o que é menor que|< verifica se um valor é menor que outro.
+
+o que é função lambda|Lambda é uma função pequena e anônima.
+
+o que é recursion|Recursão é quando uma função chama ela mesma.
+
+o que é array|Array é uma estrutura de dados semelhante a lista.
+
+o que é stack|Stack é uma estrutura LIFO (último a entrar, primeiro a sair).
+
+o que é queue|Queue é uma estrutura FIFO (primeiro a entrar, primeiro a sair).
+
+o que é big data|Big Data é o processamento de grandes volumes de dados.
+
+o que é ciência de dados|Ciência de dados é o estudo de dados para gerar informações úteis.
+
+o que é IA generativa|IA generativa cria textos, imagens ou códigos automaticamente.
+
+o que é prompt|Prompt é a instrução dada para uma IA.
+
+o que é token|Token é uma parte de texto usada por modelos de IA.
+
+o que é treinamento de IA|Treinamento é o processo de ensinar um modelo com dados.
+
+o que é overfitting|Overfitting acontece quando a IA decora dados em vez de aprender padrões.
+
+o que é underfitting|Underfitting acontece quando a IA não aprende bem os dados.
+
+o que é cloud computing|Cloud computing é o uso de servidores pela internet.
+
+o que é servidor web|Servidor web entrega páginas da internet.
+
+o que é DNS|DNS traduz nomes de sites em endereços de IP.
+
+o que é IP|IP é o endereço de um dispositivo na internet.
+
+o que é firewall|Firewall protege sistemas contra acessos não autorizados.
+
+o que é segurança da informação|É a proteção de dados contra ataques e vazamentos.
+
+o que é criptografia|Criptografia é o processo de proteger informações usando códigos.
+
+o que é hash|Hash transforma dados em uma sequência fixa de caracteres.
+
+o que é senha forte|Senha forte é difícil de adivinhar e contém letras, números e símbolos.
+
+o que é autenticação|Autenticação é verificar a identidade de um usuário.
+
+o que é login|Login é o processo de entrar em um sistema.
+
+o que é logout|Logout é sair de um sistema.
+
+o que é software|Software é um conjunto de programas.
+
+o que é hardware|Hardware é a parte física do computador.
+
+o que é sistema embarcado|Sistema embarcado é um computador dentro de outro dispositivo.
+
+o que é robótica|Robótica é a área que cria robôs programáveis.
+
+o que é automação industrial|É o uso de tecnologia para controlar processos industriais.
+
+o que é IoT|IoT é a conexão de dispositivos à internet.
+
+o que é dispositivo inteligente|É um aparelho que usa tecnologia para tomar decisões.
+
+o que é API REST|API REST é um padrão para comunicação entre sistemas.
+
+o que é request|Request é uma requisição enviada a um servidor.
+
+o que é response|Response é a resposta de um servidor.
+
+o que é latência|Latência é o tempo de resposta de um sistema.
+
+o que é upload|Upload é enviar arquivos para a internet.
+
+o que é download|Download é baixar arquivos da internet.
+
+o que é compressão de dados|Compressão reduz o tamanho de arquivos.
+
+o que é algoritmo de busca|É um método para encontrar informações rapidamente.
+
+o que é ordenação|Ordenação organiza dados em uma sequência.
+o que é protocolo de rede|Protocolo de rede é um conjunto de regras que define como os dados são enviados na internet.
+
+o que é TCP|TCP é um protocolo que garante a entrega correta dos dados na rede.
+
+o que é UDP|UDP é um protocolo mais rápido, mas não garante entrega dos dados.
+
+o que é HTTP request|HTTP request é uma solicitação enviada para um servidor web.
+
+o que é HTTP response|HTTP response é a resposta enviada pelo servidor.
+
+o que é status code|Status code indica o resultado de uma requisição (ex: 200, 404, 500).
+
+o que é 404|Erro 404 significa que a página não foi encontrada.
+
+o que é 500|Erro 500 significa erro interno no servidor.
+
+o que é API key|API key é uma chave usada para autenticar acesso a uma API.
+
+o que é endpoint|Endpoint é um endereço específico de uma API.
+
+o que é JSON parse|JSON parse é transformar JSON em dados utilizáveis.
+
+o que é serialize|Serializar é transformar dados em formato JSON ou texto.
+
+o que é framework|Framework é um conjunto de ferramentas para facilitar desenvolvimento.
+
+o que é Django|Django é um framework web em Python.
+
+o que é Flask|Flask é um micro framework web em Python.
+
+o que é Node.js|Node.js é um ambiente para executar JavaScript no servidor.
+
+o que é React|React é uma biblioteca para criar interfaces web.
+
+o que é Angular|Angular é um framework para desenvolvimento web.
+
+o que é Vue.js|Vue.js é um framework leve para interfaces web.
+
+o que é DOM|DOM é a estrutura de uma página web.
+
+o que é evento|Evento é uma ação como clique ou tecla pressionada.
+
+o que é função callback|Callback é uma função executada depois de outra.
+
+o que é async|Async permite executar tarefas de forma assíncrona.
+
+o que é await|Await espera uma tarefa assíncrona terminar.
+
+o que é thread|Thread é uma linha de execução em um programa.
+
+o que é multiprocessing|Multiprocessing usa vários processos ao mesmo tempo.
+
+o que é variável global|Variável global pode ser usada em todo o programa.
+
+o que é variável local|Variável local só funciona dentro de uma função.
+
+o que é escopo|Escopo define onde uma variável pode ser usada.
+
+o que é memória cache|Cache é uma memória rápida para dados frequentes.
+
+o que é CPU clock|Clock da CPU é a velocidade de processamento.
+
+o que é GPU|GPU é um processador para gráficos e cálculos paralelos.
+
+o que é placa de vídeo|Placa de vídeo processa imagens e gráficos.
+
+o que é driver|Driver é um software que conecta hardware ao sistema.
+
+o que é BIOS|BIOS inicia o computador e verifica hardware.
+
+o que é boot|Boot é o processo de iniciar o sistema operacional.
+
+o que é SSD|SSD é um tipo rápido de armazenamento.
+
+o que é HD|HD é armazenamento mecânico de dados.
+
+o que é memória ROM|ROM é memória apenas de leitura.
+
+o que é sistema distribuído|Sistema distribuído é um sistema com vários computadores conectados.
+
+o que é escalabilidade|Escalabilidade é a capacidade de crescer sem perder desempenho.
+
+o que é performance|Performance é o desempenho de um sistema.
+
+o que é otimização|Otimização melhora velocidade e uso de recursos.
+
+o que é código limpo|Código limpo é fácil de ler e manter.
+
+o que é refatoração|Refatoração é melhorar código sem mudar funcionamento.
+
+o que é versionamento|Versionamento controla mudanças no código.
+
+o que é Git flow|Git flow é uma estratégia de uso do Git.
+
+o que é pull request|Pull request é pedido para juntar código no GitHub.
+
+o que é code review|Code review é análise do código por outros desenvolvedores.
+
+o que é deploy|Deploy é colocar um sistema no ar.
+
+o que é hosting|Hosting é onde um site fica hospedado.
+
+o que é domínio DNS|DNS traduz nomes de sites para IPs.
+
+o que é certificado SSL|SSL protege conexões na internet.
+
+o que é ataque DDoS|DDoS é ataque que sobrecarrega servidores.
+
+o que é hacking|Hacking é explorar sistemas (legal ou ilegal).
+
+o que é ethical hacking|Ethical hacking é testar segurança de sistemas legalmente.
+
+o que é malware|Malware é software malicioso.
+
+o que é vírus|Vírus é um tipo de malware que se espalha.
+
+o que é ransomware|Ransomware bloqueia dados e pede resgate.
+
+o que é phishing|Phishing engana usuários para roubar dados.
+
+o que é engenharia social|Engenharia social manipula pessoas para obter informações.
+
+o que é backup|Backup é cópia de segurança de dados.
+
+o que é restore|Restore é recuperar dados de backup.
+
+o que é sistema operacional kernel|Kernel é o núcleo do sistema operacional.
+
+o que é Linux kernel|Linux kernel é o núcleo do sistema Linux.
+
+o que é open source|Open source é software de código aberto.
+
+o que é licença MIT|Licença MIT permite uso livre de código.
+
+o que é copyright|Copyright protege direitos autorais.
+
+o que é privacidade digital|Privacidade digital é proteção de dados pessoais.
+
+o que é identidade digital|Identidade digital é sua presença online.
+
+o que é machine vision|Machine vision é visão computacional de IA.
+
+o que é reconhecimento facial|Reconhecimento facial identifica rostos.
+
+o que é NLP|NLP é processamento de linguagem natural.
+
+o que é chatbot avançado|Chatbot avançado entende contexto e linguagem natural.
+
+o que é inteligência artificial forte|IA forte seria uma IA com inteligência humana completa.
+
+o que é inteligência artificial fraca|IA fraca resolve tarefas específicas.
+
+o que é futuro da IA|Futuro da IA envolve automação e assistentes mais inteligentes.
+
+o que é tecnologia|Tecnologia é o uso de conhecimento para criar soluções.
+
+o que é inovação|Inovação é criação de algo novo ou melhorado.
+o que é linux|Linux é um sistema operacional de código aberto baseado em Unix, muito usado em servidores, programação e segurança. Ele é conhecido por ser leve, seguro e altamente personalizável.
+
+o que é terminal no linux|O terminal no Linux é uma interface de texto onde o usuário digita comandos para controlar o sistema, instalar programas, navegar entre pastas e executar tarefas sem interface gráfica.
+
+o que é shell|Shell é o programa que interpreta os comandos digitados no terminal e os executa no sistema operacional.
+
+o que é bash|Bash é um tipo de shell muito usado no Linux, responsável por interpretar comandos e scripts.
+
+o que é comando ls|O comando ls lista os arquivos e pastas dentro do diretório atual no Linux.
+
+o que é comando cd|O comando cd é usado para mudar de diretório no Linux.
+
+o que é comando mkdir|O comando mkdir cria uma nova pasta no Linux.
+
+o que é comando rm|O comando rm remove arquivos ou pastas no Linux.
+
+o que é sudo|Sudo é um comando que permite executar ações como administrador (root) no Linux.
+
+o que é root no linux|Root é o usuário administrador do sistema Linux, com acesso total a todos os comandos e arquivos.
+
+o que é templeos|TempleOS é um sistema operacional leve criado por Terry A. Davis, projetado como um sistema simples, de código aberto e voltado para programação. Ele foi escrito quase totalmente em uma linguagem chamada HolyC e possui uma interface gráfica própria, além de um conceito único de simplicidade extrema e foco em experimentação.
+o que é estrutura de dados|Estrutura de dados é uma forma de organizar e armazenar dados para facilitar o acesso e manipulação.
+
+o que é banco relacional|Banco relacional organiza dados em tabelas que se relacionam entre si.
+
+o que é chave primária|Chave primária é um identificador único de uma tabela.
+
+o que é chave estrangeira|Chave estrangeira conecta duas tabelas em um banco de dados.
+
+o que é normalização de banco|Normalização é o processo de organizar dados para evitar redundância.
+
+o que é índice em banco de dados|Índice acelera a busca de dados em tabelas.
+
+o que é consulta otimizada|Consulta otimizada é uma busca feita de forma mais rápida e eficiente.
+
+o que é ORM|ORM é uma ferramenta que conecta código com banco de dados.
+
+o que é SQL injection|SQL injection é um ataque que explora falhas em consultas SQL.
+
+o que é Big O|Big O mede a eficiência de um algoritmo.
+
+o que é O(1)|O(1) significa tempo constante, independente do tamanho dos dados.
+
+o que é O(n)|O(n) significa que o tempo cresce proporcionalmente aos dados.
+
+o que é O(n²)|O(n²) significa crescimento quadrático do tempo de execução.
+
+o que é algoritmo guloso|Algoritmo guloso toma a melhor decisão local em cada passo.
+
+o que é programação orientada a objetos|POO é um paradigma que usa objetos e classes para organizar código.
+
+o que é classe|Classe é um modelo para criar objetos.
+
+o que é objeto|Objeto é uma instância de uma classe.
+
+o que é herança|Herança permite que uma classe use características de outra.
+
+o que é polimorfismo|Polimorfismo permite que objetos se comportem de formas diferentes.
+
+o que é encapsulamento|Encapsulamento protege dados dentro de uma classe.
+
+o que é abstração|Abstração oculta detalhes complexos e mostra apenas o essencial.
+
+o que é constructor|Constructor é uma função que inicializa objetos.
+
+o que é método|Método é uma função dentro de uma classe.
+
+o que é atributo|Atributo é uma variável dentro de uma classe.
+
+o que é UML|UML é uma linguagem de modelagem de sistemas.
+
+o que é engenharia de software|Engenharia de software é o desenvolvimento estruturado de sistemas.
+
+o que é ciclo de vida de software|É o processo de criação, manutenção e evolução de um software.
+
+o que é requisito de sistema|Requisito é uma necessidade que o sistema deve atender.
+
+o que é teste de software|Teste verifica se o software funciona corretamente.
+
+o que é teste unitário|Teste unitário verifica partes pequenas do código.
+
+o que é teste de integração|Teste de integração verifica se módulos funcionam juntos.
+
+o que é QA|QA garante qualidade do software.
+
+o que é CI/CD|CI/CD automatiza testes e deploy de software.
+
+o que é DevOps|DevOps integra desenvolvimento e operações.
+
+o que é container|Container é um ambiente isolado para rodar aplicações.
+
+o que é Docker|Docker é uma ferramenta para criar e gerenciar containers.
+
+o que é Kubernetes|Kubernetes gerencia containers em larga escala.
+
+o que é virtualização|Virtualização cria máquinas virtuais dentro de um sistema.
+
+o que é máquina virtual|Máquina virtual simula um computador dentro de outro.
+
+o que é sistema operacional de rede|É um sistema focado em gerenciamento de redes.
+
+o que é protocolo HTTP/2|HTTP/2 é uma versão mais rápida do HTTP.
+
+o que é websocket|WebSocket permite comunicação em tempo real.
+
+o que é latência de rede|Latência é o tempo de resposta na rede.
+
+o que é largura de banda|Largura de banda é a capacidade de transmissão de dados.
+
+o que é roteador|Roteador conecta redes diferentes.
+
+o que é switch|Switch conecta dispositivos dentro de uma rede local.
+
+o que é modem|Modem conecta a internet ao provedor.
+
+o que é IPv4|IPv4 é um formato de endereço IP com 32 bits.
+
+o que é IPv6|IPv6 é a versão mais nova do IP com mais endereços.
+
+o que é NAT|NAT traduz endereços de rede privada para pública.
+
+o que é VPN|VPN cria conexão segura e privada na internet.
+
+o que é proxy|Proxy é um intermediário entre usuário e internet.
+
+o que é DNS cache|DNS cache armazena endereços para acesso mais rápido.
+
+o que é phishing avançado|Phishing avançado usa técnicas sofisticadas para enganar usuários.
+
+o que é segurança em camadas|É uma estratégia que usa várias proteções ao mesmo tempo.
+
+o que é autenticação de dois fatores|É um método de segurança com duas etapas de verificação.
+
+o que é biometria|Biometria usa características físicas para autenticação.
+
+o que é criptografia simétrica|Usa a mesma chave para criptografar e descriptografar.
+
+o que é criptografia assimétrica|Usa duas chaves: pública e privada.
+
+o que é blockchain|Blockchain é um registro distribuído de dados.
+
+o que é bitcoin|Bitcoin é uma criptomoeda baseada em blockchain.
+
+o que é smart contract|Contrato inteligente executa ações automaticamente.
+
+o que é Web3|Web3 é a nova geração da internet descentralizada.
+
+o que é metaverso|Metaverso é um ambiente virtual imersivo.
+
+o que é realidade aumentada|Realidade aumentada mistura mundo real e digital.
+
+o que é realidade virtual|Realidade virtual cria ambientes totalmente digitais.
+
+o que é game engine|Game engine é uma ferramenta para criar jogos.
+
+o que é Unity|Unity é uma engine de jogos muito popular.
+
+o que é Unreal Engine|Unreal Engine é uma engine avançada para jogos.
+
+o que é FPS em jogos|FPS mede frames por segundo em jogos.
+
+o que é ping em jogos|Ping mede latência entre jogador e servidor.
+
+o que é servidor de jogo|Servidor hospeda partidas online.
+
+o que é multiplayer|Multiplayer permite vários jogadores ao mesmo tempo.
+
+o que é singleplayer|Singleplayer é jogo para um jogador.
+
+o que é IA em jogos|IA controla personagens automáticos em jogos.
+
+o que é pathfinding|Pathfinding é o cálculo de caminhos em jogos.
+
+o que é algoritmo A*|A* é um algoritmo de busca de caminho eficiente.
+
+o que é renderização|Renderização transforma dados em imagem.
+
+o que é engine gráfica|Engine gráfica processa imagens e efeitos.
+
+o que é pixel|Pixel é a menor unidade de uma imagem digital.
+
+o que é resolução|Resolução é a quantidade de pixels de uma tela.
+o que é algoritmo recursivo|Algoritmo recursivo é aquele que chama a si mesmo para resolver um problema.
+
+o que é complexidade de tempo|Complexidade de tempo mede quanto tempo um algoritmo leva para executar.
+
+o que é complexidade de espaço|Complexidade de espaço mede quanta memória um algoritmo usa.
+
+o que é estrutura condicional|Estrutura condicional permite tomar decisões no código.
+
+o que é estrutura de repetição|Estrutura de repetição executa blocos várias vezes.
+
+o que é paradigma de programação|Paradigma é um estilo ou forma de programar.
+
+o que é programação estruturada|Programação estruturada organiza o código em blocos e funções.
+
+o que é programação funcional|Programação funcional usa funções como base principal.
+
+o que é programação imperativa|Imperativa descreve passo a passo o que o programa deve fazer.
+
+o que é programação declarativa|Declarativa descreve o resultado desejado, não os passos.
+
+o que é linguagem compilada|É linguagem que precisa ser compilada antes de rodar.
+
+o que é linguagem interpretada|É linguagem executada linha por linha.
+
+o que é tipagem dinâmica|Tipagem dinâmica permite mudar o tipo de variável em tempo de execução.
+
+o que é tipagem estática|Tipagem estática define tipos antes da execução.
+
+o que é variável imutável|Variável imutável não pode ser alterada após criação.
+
+o que é variável mutável|Variável mutável pode ser alterada durante execução.
+
+o que é stack overflow|Stack overflow é erro causado por recursão infinita.
+
+o que é heap|Heap é área de memória usada para armazenamento dinâmico.
+
+o que é garbage collector|Garbage collector limpa memória não utilizada.
+
+o que é ponteiro|Ponteiro é uma variável que aponta para endereço de memória.
+
+o que é referência|Referência é um vínculo entre variável e objeto na memória.
+
+o que é função pura|Função pura não altera nada fora dela e sempre retorna o mesmo resultado.
+
+o que é efeito colateral|Efeito colateral é quando função altera algo externo.
+
+o que é framework backend|Framework backend facilita criação de servidores.
+
+o que é framework frontend|Framework frontend facilita criação de interfaces.
+
+o que é API RESTful|API RESTful segue regras de comunicação via HTTP.
+
+o que é endpoint API|Endpoint é um caminho específico dentro de uma API.
+
+o que é autenticação JWT|JWT é um método de autenticação baseado em tokens.
+
+o que é sessão|Sessão guarda informações do usuário temporariamente.
+
+o que é cookie|Cookie armazena dados no navegador.
+
+o que é cache de navegador|Cache guarda dados para carregamento mais rápido.
+
+o que é renderização server-side|SSR gera páginas no servidor.
+
+o que é renderização client-side|CSR gera páginas no navegador.
+
+o que é SPA|SPA é uma aplicação de uma única página.
+
+o que é microserviço|Microserviço divide sistema em partes pequenas independentes.
+
+o que é monolito|Monolito é sistema tudo-em-um.
+
+o que é escalabilidade horizontal|Adicionar mais máquinas ao sistema.
+
+o que é escalabilidade vertical|Aumentar recursos de uma máquina.
+
+o que é load balancer|Distribui carga entre servidores.
+
+o que é API Gateway|Gerencia e controla requisições de APIs.
+
+o que é latência de API|Tempo de resposta de uma API.
+
+o que é throttling|Limita número de requisições.
+
+o que é rate limit|Limite de requisições por tempo.
+
+o que é websocket em programação|Permite comunicação contínua entre cliente e servidor.
+
+o que é polling|Cliente pergunta repetidamente ao servidor.
+
+o que é long polling|Servidor espera até ter resposta antes de enviar.
+
+o que é JSON Web Token|Token usado para autenticação segura.
+
+o que é OAuth|Sistema de login via terceiros.
+
+o que é SSO|Single Sign-On permite login único em vários sistemas.
+
+o que é CRUD|CRUD significa criar, ler, atualizar e deletar dados.
+
+o que é create|Create é a criação de dados.
+
+o que é read|Read é leitura de dados.
+
+o que é update|Update é atualização de dados.
+
+o que é delete|Delete é remoção de dados.
+
+o que é migration|Migration altera estrutura do banco de dados.
+
+o que é seed|Seed insere dados iniciais no banco.
+
+o que é ORM em Python|ORM conecta objetos Python com banco de dados.
+
+o que é SQLAlchemy|SQLAlchemy é uma biblioteca ORM para Python.
+
+o que é Flask API|Flask API é uma API feita com Flask.
+
+o que é Django ORM|Django ORM gerencia banco de dados automaticamente.
+
+o que é middleware|Middleware processa requisições entre etapas.
+
+o que é request header|Header contém informações da requisição.
+
+o que é response header|Header da resposta do servidor.
+
+o que é status 200|Indica sucesso na requisição.
+
+o que é status 201|Indica criação de recurso.
+
+o que é status 400|Erro na requisição do cliente.
+
+o que é status 401|Não autorizado.
+
+o que é status 403|Acesso proibido.
+
+o que é status 500|Erro interno do servidor.
+
+o que é debugging avançado|Debugging avançado usa ferramentas para encontrar erros complexos.
+
+o que é breakpoint|Breakpoint pausa execução do código.
+
+o que é step over|Executa linha sem entrar em funções.
+
+o que é step into|Entra dentro da função durante debug.
+
+o que é log|Log registra informações do sistema.
+
+o que é logging em programação|Logging registra eventos do programa.
+
+o que é monitoramento de sistema|Acompanha desempenho de aplicações.
+
+o que é observabilidade|Permite entender o comportamento do sistema.
+
+o que é stack trace|Stack trace mostra caminho do erro.
+
+o que é erro runtime|Erro que acontece durante execução.
+
+o que é erro compile time|Erro detectado antes da execução.
+
+o que é refatoração de código|Melhoria do código sem mudar funcionamento.
+
+o que é código legado|Código antigo difícil de manter.
+
+o que é clean architecture|Arquitetura limpa organiza código em camadas.
+
+o que é design pattern|Design pattern é uma solução reutilizável para problemas comuns.
+
+o que é singleton|Singleton garante uma única instância de uma classe.
+
+o que é factory pattern|Factory cria objetos sem expor lógica.
+
+o que é MVC|MVC separa código em modelo, visão e controlador.
+
+o que é MVVM|MVVM separa lógica da interface.
+
+o que é dependency injection|Injeção de dependência facilita reutilização de código.
+
+o que é acoplamento|Acoplamento é o nível de dependência entre partes do código.
+
+o que é coesão|Coesão mede o quanto um módulo é bem organizado.
+
+o que é repositório de código|Local onde o código é armazenado.
+
+o que é python|Python é uma linguagem de programação simples e poderosa, usada em IA, automação, desenvolvimento web e análise de dados.
+
+o que é javascript|JavaScript é uma linguagem usada para criar sites interativos e também no backend com Node.js.
+
+o que é java|Java é uma linguagem muito usada em sistemas grandes, aplicativos Android e empresas.
+
+o que é linguagem c|C é uma linguagem de baixo nível usada para sistemas operacionais e programas de alta performance.
+
+o que é c++|C++ é uma evolução da linguagem C, usada em jogos, motores gráficos e sistemas rápidos.
+
+o que é c sharp|C# é uma linguagem da Microsoft usada em jogos (Unity), aplicativos Windows e sistemas empresariais.
+
+o que é php|PHP é uma linguagem usada principalmente no desenvolvimento de sites e servidores web.
+
+o que é ruby|Ruby é uma linguagem simples e produtiva, muito usada no desenvolvimento web com Rails.
+
+o que é rust|Rust é uma linguagem moderna focada em segurança de memória e alta performance.
+
+o que é go|Go (Golang) é uma linguagem criada pelo Google, usada em servidores e sistemas rápidos.
+
+o que é kotlin|Kotlin é uma linguagem moderna usada principalmente para desenvolvimento Android.
+
+o que é swift|Swift é a linguagem da Apple usada para criar aplicativos iOS e macOS.
+
+o que é typescript|TypeScript é uma versão do JavaScript com tipagem estática, usada em projetos grandes.
+
+o que é sql|SQL é uma linguagem usada para gerenciar e consultar bancos de dados.
+
+o que é html|HTML não é exatamente uma linguagem de programação, mas sim uma linguagem de marcação usada para criar páginas web.
+
+o que é css|CSS não é linguagem de programação, mas é usada para estilizar páginas web.
+
+o que é bash|Bash é uma linguagem de comandos usada no terminal Linux.
+
+o que é lua|Lua é uma linguagem leve muito usada em jogos e scripts.
+
+o que é perl|Perl é uma linguagem antiga muito usada para scripts e automação.
+
+o que é scala|Scala é uma linguagem que roda na JVM e combina programação funcional e orientada a objetos.
+
+o que é objective c|Objective-C é uma linguagem antiga usada para aplicativos Apple antes do Swift.
+
+o que é assembly|Assembly é uma linguagem de baixo nível muito próxima do código da máquina.
+
+o que é dart|Dart é a linguagem usada no Flutter para criar aplicativos mobile.
+
+o que é matlab|MATLAB é uma linguagem usada para matemática, engenharia e ciência de dados.
+
+o que é r|R é uma linguagem focada em estatística e análise de dados.
+
+o que é delphi|Delphi é uma linguagem usada para aplicações desktop.
+
+o que é visual basic|Visual Basic é uma linguagem simples da Microsoft para aplicações Windows.
+
+o que é groovy|Groovy é uma linguagem baseada em Java usada em automação e scripts.
+
+o que é fortran|Fortran é uma linguagem antiga usada em cálculos científicos.
+
+o que é cobol|COBOL é uma linguagem antiga usada em sistemas bancários e empresas.
+
+o que é haskell|Haskell é uma linguagem funcional pura usada em estudos e pesquisa.
+
+o que é elixir|Elixir é uma linguagem moderna baseada na máquina Erlang, usada em sistemas distribuídos.
+
+o que é erlang|Erlang é uma linguagem usada para sistemas que precisam de alta disponibilidade.
+
+o que é solidity|Solidity é a linguagem usada para criar contratos inteligentes em blockchain.
+
+o que é vba|VBA é uma linguagem usada dentro do Excel para automação.
+
+o que é scratch|Scratch é uma linguagem visual usada para aprender programação.
+
+o que é prolog|Prolog é uma linguagem lógica usada em inteligência artificial.
+
+o que é abap|ABAP é uma linguagem usada em sistemas SAP empresariais.
+para que serve python|Serve para inteligência artificial, automação, criação de sites, análise de dados e scripts.
+
+para que serve javascript|Serve para criar sites interativos, aplicações web modernas, jogos no navegador e backend com Node.js.
+
+para que serve java|Serve para aplicativos Android, sistemas empresariais e grandes aplicações corporativas.
+
+para que serve linguagem c|Serve para sistemas operacionais, drivers e programas de altíssima performance.
+
+para que serve c++|Serve para jogos, engines gráficas, softwares de alta performance e sistemas complexos.
+
+para que serve c sharp|Serve para jogos com Unity, aplicativos Windows e sistemas empresariais.
+
+para que serve php|Serve para desenvolvimento de sites dinâmicos e sistemas web no backend.
+
+para que serve ruby|Serve para desenvolvimento web, principalmente com Ruby on Rails.
+
+para que serve rust|Serve para sistemas seguros e rápidos, com foco em performance e segurança de memória.
+
+para que serve go|Serve para servidores, APIs e sistemas distribuídos de alta performance.
+
+para que serve kotlin|Serve para desenvolvimento de aplicativos Android modernos.
+
+para que serve swift|Serve para criação de aplicativos para iPhone, iPad e outros dispositivos Apple.
+
+para que serve typescript|Serve para desenvolvimento web em larga escala com mais segurança e organização que JavaScript.
+
+para que serve sql|Serve para criar, consultar e gerenciar bancos de dados.
+
+para que serve html|Serve para estruturar páginas web.
+
+para que serve css|Serve para estilizar e dar aparência às páginas web.
+
+para que serve bash|Serve para executar comandos e automatizar tarefas no Linux.
+
+para que serve lua|Serve para scripts em jogos e aplicações leves.
+
+para que serve dart|Serve para criar aplicativos mobile com Flutter.
+
+para que serve r|Serve para análise de dados, estatística e gráficos.
+
+para que serve matlab|Serve para cálculos matemáticos, engenharia e simulações.
+
+para que serve cobol|Serve para sistemas bancários e financeiros antigos.
+
+para que serve solidity|Serve para criar contratos inteligentes em blockchain.
+
+para que serve scratch|Serve para aprender programação de forma simples e visual.
+
+para que serve assembly|Serve para programação de baixo nível muito próxima do hardware.
+o que é .net|.NET é uma plataforma de desenvolvimento da Microsoft que permite criar diferentes tipos de aplicações usando principalmente C#.
+para que serve .net|Serve para criar aplicações web, sistemas empresariais, APIs e softwares desktop usando várias linguagens como C# dentro do ecossistema da Microsoft.
+o que é algoritmo genético|Algoritmo genético é uma técnica de IA inspirada na evolução natural.
+
+o que é machine learning supervisionado|É quando a IA aprende com dados já rotulados.
+
+o que é machine learning não supervisionado|É quando a IA aprende sem dados rotulados.
+
+o que é reinforcement learning|É aprendizado baseado em recompensa e punição.
+
+o que é overfitting em programação|É quando o modelo aprende demais os dados de treino e erra em novos dados.
+
+o que é dataset balanceado|É um conjunto de dados com classes equilibradas.
+
+o que é feature|Feature é uma característica usada pelo modelo de IA.
+
+o que é label|Label é o resultado esperado em um conjunto de dados.
+
+o que é predição|Predição é quando o modelo tenta prever um resultado.
+
+o que é classificação|Classificação é separar dados em categorias.
+
+o que é regressão|Regressão prevê valores numéricos contínuos.
+
+o que é normalização de dados|Normalização ajusta dados para mesma escala.
+
+o que é escalonamento|Escalonamento ajusta valores para facilitar o aprendizado da IA.
+
+o que é algoritmo de clustering|Clustering agrupa dados semelhantes.
+
+o que é KNN|KNN é um algoritmo que classifica baseado nos vizinhos mais próximos.
+
+o que é árvore de decisão|Árvore de decisão é um modelo que toma decisões em forma de ramificação.
+
+o que é random forest|Random forest é um conjunto de árvores de decisão.
+
+o que é gradient descent|Gradient descent é um método para otimizar modelos.
+
+o que é função de perda|Função de perda mede o erro do modelo.
+
+o que é acurácia|Acurácia mede a precisão de um modelo.
+
+o que é precisão em IA|Precisão mede quantos acertos o modelo teve entre os positivos.
+
+o que é recall|Recall mede quantos casos positivos foram detectados corretamente.
+
+o que é f1 score|F1 score é uma média entre precisão e recall.
+
+o que é modelo preditivo|Modelo preditivo tenta prever resultados futuros.
+
+o que é treinamento de modelo|Treinamento é quando a IA aprende com dados.
+
+o que é validação de modelo|Validação testa o modelo em dados novos.
+
+o que é teste em IA|Teste avalia a performance final do modelo.
+
+o que é pipeline de dados|Pipeline organiza o fluxo de dados.
+
+o que é engenharia de dados|Engenharia de dados prepara e organiza dados.
+
+o que é data warehouse|Data warehouse é um grande repositório de dados.
+
+o que é data lake|Data lake armazena dados brutos.
+
+o que é big data analytics|Análise de grandes volumes de dados.
+
+o que é ETL|ETL significa extrair, transformar e carregar dados.
+
+o que é API REST|API REST é um padrão de comunicação entre sistemas via HTTP.
+
+o que é SOAP|SOAP é um protocolo antigo para APIs.
+
+o que é GraphQL|GraphQL é uma linguagem para consultar APIs de forma flexível.
+
+o que é backend API|Backend API fornece dados para aplicações.
+
+o que é frontend API call|É quando o frontend faz requisições para o backend.
+
+o que é websocket server|Servidor websocket mantém conexão em tempo real.
+
+o que é socket|Socket é um ponto de comunicação entre sistemas.
+
+o que é multithreading|Multithreading executa várias tarefas ao mesmo tempo.
+
+o que é concorrência|Concorrência é quando várias tarefas avançam juntas.
+
+o que é paralelismo|Paralelismo é execução simultânea real.
+
+o que é deadlock|Deadlock é quando processos ficam travados esperando um ao outro.
+
+o que é race condition|Race condition é quando processos competem por recursos.
+
+o que é semaphore|Semaphore controla acesso a recursos compartilhados.
+
+o que é mutex|Mutex impede acesso simultâneo a recursos.
+
+o que é fila de execução|Fila organiza tarefas em ordem de execução.
+
+o que é scheduler|Scheduler decide a ordem das tarefas no sistema.
+
+o que é sistema em tempo real|Sistema que responde dentro de tempo limitado.
+
+o que é embedded system|Sistema embarcado é um computador dentro de outro dispositivo.
+
+o que é firmware|Firmware é software instalado no hardware.
+
+o que é bootloader|Bootloader inicia o sistema operacional.
+
+o que é kernel panic|Erro grave no kernel do sistema.
+
+o que é system call|System call é uma chamada ao sistema operacional.
+
+o que é processo|Processo é um programa em execução.
+
+o que é thread em programação|Thread é uma linha de execução dentro de um processo.
+
+o que é heap memory|Heap é memória usada dinamicamente pelo programa.
+
+o que é stack memory|Stack é memória usada para chamadas de funções.
+
+o que é garbage collection|Garbage collection libera memória não usada.
+
+o que é memory leak|Memory leak é quando memória não é liberada corretamente.
+
+o que é pointer arithmetic|É manipulação de endereços de memória.
+
+o que é segmentation fault|Erro causado por acesso inválido à memória.
+
+o que é compile error|Erro que acontece antes de executar o programa.
+
+o que é runtime error|Erro que acontece durante a execução.
+
+o que é syntax error|Erro de escrita no código.
+
+o que é lógica de programação avançada|É o uso de estruturas complexas para resolver problemas difíceis.
+
+o que é clean code avançado|Código limpo, organizado e fácil de manter.
+
+o que é arquitetura de software|Estrutura geral de um sistema de software.
+
+o que é microkernel|Kernel minimalista com serviços externos.
+
+o que é monolithic architecture|Arquitetura onde tudo está em um único sistema.
+
+o que é event-driven programming|Programação baseada em eventos.
+
+o que é observer pattern|Padrão onde objetos são notificados de mudanças.
+
+o que é singleton pattern|Padrão que garante uma única instância de objeto.
+
+o que é factory pattern|Padrão que cria objetos sem expor lógica.
+
+o que é dependency injection avançada|Técnica para desacoplar dependências no código.
+
+o que é refatoração avançada|Melhoria de código sem mudar comportamento.
+
+o que é código escalável|Código que suporta crescimento sem perder desempenho.
+
+o que é software distribuído|Software que roda em várias máquinas conectadas.
+
+o que é cloud native|Aplicações feitas para rodar na nuvem.
+
+o que é devops avançado|Integração de desenvolvimento e operações com automação.
+
+o que é ci/cd pipeline|Automação de testes e deploy.
+
+o que é infraestrutura como código|Gerenciar infraestrutura com código.
+
+o que é docker compose|Ferramenta para rodar múltiplos containers.
+
+o que é kubernetes cluster|Grupo de máquinas que gerenciam containers.
+
+o que é serverless|Executar código sem gerenciar servidores.
+
+o que é edge computing|Processamento de dados próximo ao usuário.
+
+o que é latency optimization|Redução do tempo de resposta do sistema.
+
+o que é caching avançado|Armazenamento temporário para acelerar sistemas.
+
+o que é load balancing avançado|Distribuição inteligente de carga entre servidores.
