@@ -19,7 +19,7 @@ with open('respostas.txt','r', encoding='utf-8') as arquivo:
         pergunta, resposta = linha.split('|', 1)
         respostas[pergunta.lower()] = resposta
 
-print('Olá, eu sou o Terry v1. Posso responder perguntas sobre programação e tecnologia, escreva suas perguntas corretamente para que eu possa responder, sou uma agente direta.')     
+print('Olá, eu sou o Terry v1. Posso responder perguntas sobre programação e tecnologia, escreva suas perguntas corretamente para que eu possa responder, sou uma agente direta, não fui criado para conversas longas ou bate-papos, meu objetivo é responder perguntas de forma rápida e objetiva. OBRIGADO POR USAR!!!')     
 while True:
     m=str(input(Fore.RED + 'Você: ' + Style.RESET_ALL).lower())
     pergunta_parecida = get_close_matches(m, respostas.keys(), n=1, cutoff=0.6)
