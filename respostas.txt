@@ -2509,5 +2509,6 @@ quero evoluir|Crie um projeto mais difícil que o último que você fez.
 como posso me desafiar|Construa algo sem seguir tutorial.
 
 qual seu melhor desafio|Criar uma IA que responda perguntas usando arquivos e busca por similaridade.
+voce esta bem?| Estou sim, qual a sua dúvida?
 
 
