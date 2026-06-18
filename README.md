@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TerryV1
 Olá! Eu sou o Terry V1, criada por Caio.
 
@@ -13,57 +12,17 @@ Comandos úteis:
 • sair - Encerrar o Terry.
 
 Bem-vindo ao Terry V1. Bons estudos!
-=======
-# Terry-V1
- Um chat bot de perguntas e respostas de programação. Algo feito para estudar programação de uma forma superficial e prática. 
- (feito por um iniciante em python.)
->>>>>>> 8be413bedf6d333ac52e33e4e613f4916bc65a85
+
 ## Como usar
 Obrigado por baixar o Terry V1!
-O Terry é uma inteligência artificial desenvolvida em Python para responder perguntas sobre programação, tecnologia, cibersegurança, redes, hardware e diversos outros assuntos.
-
-Requisitos
-Antes de executar o Terry, certifique-se de ter o Python 3 instalado em seu computador.
-Também é necessário instalar a biblioteca Colorama. Para isso, abra o terminal (CMD, PowerShell ou Terminal) e execute:
+O Terry é uma inteligência artificial desenvolvida em Python para responder perguntas sobre programação, tecnologia, cibersegurança, redes, hardware, sistemas operacionais e diversos outros assuntos. Seu banco de conhecimento pode ser expandido facilmente através do arquivo respostas.txt.
+Para utilizar o Terry, é necessário ter o Python 3 instalado em seu computador. Também será preciso instalar a biblioteca Colorama executando o seguinte comando no terminal:
 pip install colorama
-Arquivos necessários
-Os seguintes arquivos devem permanecer na mesma pasta:
-terry.py (código principal)
-
-respostas.txt (banco de conhecimento)
-
-nivel.txt (salva seu progresso)
-
-Caso o arquivo nivel.txt não exista, crie-o manualmente contendo:
+Após a instalação, mantenha os arquivos terry.py, respostas.txt e nivel.txt na mesma pasta. Caso o arquivo nivel.txt não exista, crie-o contendo:
 0|0
-O primeiro número representa o nível e o segundo representa o XP.
-Como iniciar
-Abra o terminal na pasta onde estão os arquivos e execute:
+Para iniciar o Terry, abra o terminal na pasta do projeto e execute:
 python terry.py
-Caso o comando acima não funcione, tente:
-python3 terry.py
-Como usar
-Após iniciar o programa, basta digitar sua pergunta. O Terry responderá utilizando seu banco de conhecimento.
-Exemplos:
-O que é Python?
-
-O que é Git?
-
-Como funciona o Linux?
-
-O que é SQL?
-
-Explique Java.
-
-O que é cibersegurança?
-
-O Terry também reconhece perguntas parecidas, então pequenos erros de digitação normalmente não impedem que ele encontre a resposta.
-Sistema de evolução
-Cada pergunta respondida concede experiência (XP).
-Você pode acompanhar seu progresso digitando:
-nivel
-Para encerrar o programa, digite:
-sair
-Sobre o projeto
-O Terry V1 foi desenvolvido por Caio como um projeto de aprendizado em Python. O objetivo é evoluir continuamente a inteligência artificial, adicionando novos recursos, conhecimentos e funcionalidades a cada versão.
-Espero que o Terry seja útil para seus estudos. Bons estudos e divirta-se explorando a programação! 🚀
+Depois disso, basta digitar suas perguntas normalmente. O Terry responderá utilizando seu banco de conhecimento e também reconhecerá perguntas parecidas, mesmo que existam pequenos erros de digitação.
+O sistema possui evolução por níveis. A cada pergunta respondida corretamente, você ganha experiência (XP). Para visualizar seu progresso, digite nivel. Para encerrar o programa, digite sair.
+Este projeto foi desenvolvido por Caio com o objetivo de estudar programação em Python e evoluir constantemente o Terry com novos recursos, conhecimentos e funcionalidades.
+Espero que o Terry seja útil para você. Bons estudos e divirta-se explorando o mundo da tecnologia! 🚀
