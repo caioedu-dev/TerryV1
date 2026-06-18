@@ -8,6 +8,7 @@ Também posso sugerir cursos, desafios, projetos, e acompanhar sua evolução at
 Digite sua pergunta de forma clara e farei o possível para ajudá-lo.
 
 Comandos úteis:
+
 • nivel - Ver seu nível e XP.
 
 • sair - Encerrar o Terry.
