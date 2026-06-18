@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TerryV1
 Olá! Eu sou o Terry V1, criada por Caio.
 
@@ -12,6 +13,11 @@ Comandos úteis:
 • sair - Encerrar o Terry.
 
 Bem-vindo ao Terry V1. Bons estudos!
+=======
+# Terry-V1
+ Um chat bot de perguntas e respostas de programação. Algo feito para estudar programação de uma forma superficial e prática. 
+ (feito por um iniciante em python.)
+>>>>>>> 8be413bedf6d333ac52e33e4e613f4916bc65a85
 ## Como usar
 Obrigado por baixar o Terry V1!
 O Terry é uma inteligência artificial desenvolvida em Python para responder perguntas sobre programação, tecnologia, cibersegurança, redes, hardware e diversos outros assuntos.
