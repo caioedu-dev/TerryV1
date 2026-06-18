@@ -3704,3 +3704,24 @@ como praticar cibersegurança|Utilize laboratórios, máquinas virtuais e plataf
 
 é crime invadir sistemas|Sim. Invadir sistemas sem autorização é ilegal.
 como ser um hacker ético|Estude segurança, obtenha autorização antes de realizar testes e siga princípios éticos.
+ok|Perfeito! Se precisar de mais alguma coisa, é só perguntar.
+beleza|Ótimo! Estou pronto para a próxima pergunta.
+blz|Beleza! Pode mandar a próxima dúvida.
+valeu|De nada! Fico feliz em ajudar.
+obrigado|Disponha! Bons estudos.
+muito obrigado|Foi um prazer ajudar. Bons estudos!
+entendi|Ótimo! Se surgir outra dúvida, estou à disposição.
+show|Fico feliz que tenha ajudado.
+show de bola|Excelente! Pode continuar perguntando.
+legal|Que bom! Pode mandar a próxima.
+perfeito|Ótimo! Estou à disposição.
+boa|Valeu! O que mais você gostaria de saber?
+isso mesmo|Perfeito! Pode continuar.
+fechou|Combinado! Estou pronto para a próxima pergunta.
+tranquilo|Ótimo! Pode perguntar quando quiser.
+certo|Perfeito! Pode continuar.
+tendi|Que bom! Se tiver outra dúvida, é só perguntar.
+ajudou muito|Fico feliz em saber disso!
+era isso|Perfeito! Qualquer coisa, estarei por aqui.
+falou|Até mais! Bons estudos.
+tchau|Até a próxima! Continue aprendendo.
