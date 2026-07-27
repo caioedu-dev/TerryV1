@@ -3726,3 +3726,317 @@ era isso|Perfeito! Qualquer coisa, estarei por aqui.
 falou|Até mais! Bons estudos.
 tchau|Até a próxima! Continue aprendendo.
 kkkkkkk| kkkkk, vamos estudar !!
+onde posso fazer cursos?|Você pode fazer cursos em plataformas como Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX. A escolha depende do que você deseja aprender.
+onde posso fazer cursos?;onde estudar;qual site para aprender;recomenda cursos|Você pode estudar em plataformas como Curso em Vídeo (gratuito), Cisco Networking Academy (redes), Alura (programação), Udemy (cursos variados), Coursera e edX (universidades).
+onde posso fazer cursos?|Você pode fazer cursos no Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX.
+onde estudar programação?|Você pode fazer cursos no Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX.
+qual o melhor lugar para estudar?|Você pode fazer cursos no Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX.
+onde aprender programação?|Você pode fazer cursos no Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX.
+tem alguma recomendação de cursos?|Você pode fazer cursos no Curso em Vídeo, Cisco Networking Academy, Alura, Udemy, Coursera e edX.
+onde aprender python?|Você pode aprender Python no Curso em Vídeo, Udemy, Alura e na documentação oficial do Python.
+qual o melhor curso de python?|Recomendo o Curso em Vídeo para iniciantes e a Udemy ou Alura para conteúdos mais avançados.
+onde estudar python?|Você pode estudar Python no Curso em Vídeo, Udemy, Alura e na documentação oficial do Python.
+
+onde aprender java?|Você pode aprender Java no Curso em Vídeo, Alura, Udemy e na documentação oficial da Oracle.
+qual o melhor curso de java?|Recomendo o Curso em Vídeo, Alura e Udemy para aprender Java.
+onde estudar java?|Você pode estudar Java no Curso em Vídeo, Alura e Udemy.
+
+onde aprender javascript?|Você pode aprender JavaScript no Curso em Vídeo, MDN Web Docs, Alura e Udemy.
+qual o melhor curso de javascript?|Recomendo o Curso em Vídeo, MDN e Alura para JavaScript.
+onde estudar javascript?|Você pode estudar JavaScript no Curso em Vídeo, MDN Web Docs e Udemy.
+
+onde aprender html?|Você pode aprender HTML no Curso em Vídeo, MDN Web Docs e freeCodeCamp.
+onde aprender css?|Você pode aprender CSS no Curso em Vídeo, MDN Web Docs e freeCodeCamp.
+onde aprender c?|Você pode aprender C no Curso em Vídeo e com o livro C Programming Language.
+onde aprender c++?|Você pode aprender C++ no LearnCpp, Curso em Vídeo e Udemy.
+onde aprender c#?|Você pode aprender C# na Microsoft Learn, Alura e Udemy.
+onde aprender php?|Você pode aprender PHP no Curso em Vídeo, PHP.net e Udemy.
+onde aprender go?|Você pode aprender Go no Tour of Go, na documentação oficial e na Udemy.
+onde aprender rust?|Você pode aprender Rust com o livro The Rust Programming Language e na documentação oficial.
+onde aprender kotlin?|Você pode aprender Kotlin na documentação oficial, Android Developers e Udemy.
+onde aprender swift?|Você pode aprender Swift no Hacking with Swift, Apple Developer e Udemy.
+onde aprender sql?|Você pode aprender SQL no SQLBolt, W3Schools, Alura e Udemy.
+onde aprender react?|Você pode aprender React na documentação oficial, Alura e Udemy.
+onde aprender node.js?|Você pode aprender Node.js na documentação oficial, Alura e Udemy.
+onde aprender linux?|Você pode aprender Linux no Curso em Vídeo, Linux Journey e na documentação oficial.
+onde aprender docker?|Você pode aprender Docker na documentação oficial, Alura e Udemy.
+onde aprender redes?|Você pode aprender Redes de Computadores na Cisco Networking Academy e no Curso em Vídeo.
+onde aprender cibersegurança?|Você pode aprender Cibersegurança na Cisco Networking Academy, TryHackMe e Hack The Box.
+onde aprender ruby?|Você pode aprender Ruby na documentação oficial, RubyMonk, Udemy e Codecademy.
+onde aprender perl?|Você pode aprender Perl na documentação oficial, Perl Maven e Udemy.
+onde aprender r?|Você pode aprender R na documentação oficial, Coursera e DataCamp.
+onde aprender matlab?|Você pode aprender MATLAB na documentação oficial da MathWorks, Coursera e Udemy.
+onde aprender dart?|Você pode aprender Dart na documentação oficial, Flutter Academy e Udemy.
+onde aprender lua?|Você pode aprender Lua na documentação oficial, Curso em Vídeo e Udemy.
+onde aprender scala?|Você pode aprender Scala na documentação oficial, Coursera e Udemy.
+onde aprender haskell?|Você pode aprender Haskell no Learn You a Haskell, na documentação oficial e Udemy.
+onde aprender elixir?|Você pode aprender Elixir na documentação oficial, Elixir School e Udemy.
+onde aprender erlang?|Você pode aprender Erlang na documentação oficial e Udemy.
+onde aprender julia?|Você pode aprender Julia na documentação oficial, Julia Academy e Coursera.
+onde aprender objective-c?|Você pode aprender Objective-C na documentação da Apple e Udemy.
+onde aprender assembly?|Você pode aprender Assembly no NASM, Udemy e YouTube.
+onde aprender visual basic?|Você pode aprender Visual Basic na Microsoft Learn e Udemy.
+onde aprender delphi?|Você pode aprender Delphi na Embarcadero Academy e Udemy.
+onde aprender cobol?|Você pode aprender COBOL na IBM, Open Mainframe Project e Udemy.
+onde aprender fortran?|Você pode aprender Fortran na documentação oficial e Coursera.
+onde aprender pascal?|Você pode aprender Pascal no Free Pascal, Lazarus e Udemy.
+onde aprender groovy?|Você pode aprender Groovy na documentação oficial e Udemy.
+onde aprender powershell?|Você pode aprender PowerShell na Microsoft Learn e Udemy.
+onde aprender bash?|Você pode aprender Bash na documentação GNU, Linux Journey e Udemy.
+onde aprender shell script?|Você pode aprender Shell Script na documentação oficial, Linux Journey e Udemy.
+onde aprender yaml?|Você pode aprender YAML na documentação oficial e W3Schools.
+onde aprender json?|Você pode aprender JSON no JSON.org, W3Schools e MDN.
+onde aprender xml?|Você pode aprender XML no W3Schools e MDN Web Docs.
+onde aprender firebase?|Você pode aprender Firebase na documentação oficial e Udemy.
+onde aprender mongodb?|Você pode aprender MongoDB na MongoDB University e Udemy.
+onde aprender redis?|Você pode aprender Redis na documentação oficial e Udemy.
+onde aprender oracle sql?|Você pode aprender Oracle SQL na Oracle University e Udemy.
+onde aprender firebase?|Você pode aprender Firebase na documentação oficial, YouTube e Udemy.
+onde aprender flutter?|Você pode aprender Flutter na documentação oficial, Flutterando e Udemy.
+onde aprender .net?|Você pode aprender .NET na Microsoft Learn, Alura e Udemy.
+onde aprender asp.net?|Você pode aprender ASP.NET na Microsoft Learn, Alura e Udemy.
+onde aprender express?|Você pode aprender Express.js na documentação oficial e Udemy.
+onde aprender selenium?|Você pode aprender Selenium na documentação oficial e Udemy.
+onde aprender pandas?|Você pode aprender Pandas na documentação oficial, Kaggle Learn e Udemy.
+onde aprender numpy?|Você pode aprender NumPy na documentação oficial, Kaggle Learn e Udemy.
+onde aprender tensorflow?|Você pode aprender TensorFlow na documentação oficial, Coursera e Udemy.
+onde aprender pytorch?|Você pode aprender PyTorch na documentação oficial, Coursera e Udemy.
+onde aprender opencv?|Você pode aprender OpenCV na documentação oficial e Udemy.
+onde aprender unity?|Você pode aprender Unity no Unity Learn, Udemy e YouTube.
+onde aprender unreal engine?|Você pode aprender Unreal Engine na Epic Games Academy, Udemy e YouTube.
+onde aprender godot?|Você pode aprender Godot na documentação oficial, GDQuest e YouTube.
+onde aprender roblox studio?|Você pode aprender Roblox Studio no Roblox Creator Hub e YouTube.
+onde aprender scratch?|Você pode aprender Scratch no site oficial do Scratch e em cursos gratuitos.
+terry vc é gay?| Não kkskkk.
+ata|Beleza! 😄
+beleza|Que bom! Se precisar de mais alguma coisa, é só chamar.
+blz|Tranquilo! Estou por aqui.
+ok|Certo! 👍
+okay|Beleza, entendido.
+entendi|Fico feliz que tenha entendido!
+valeu|De nada! 😊
+obrigado|Por nada! Sempre que precisar.
+obg|Disponha!
+muito obrigado|Não há de quê! Boa sorte.
+kkk|Kkkkk 😂
+kkkk|Kkkkkk 😄
+kkkkk|Kkkkkk 😂
+haha|😂
+hehe|😄
+show|Valeu! Fico feliz em ajudar.
+top|Que bom que gostou!
+perfeito|Fico feliz que tenha ajudado!
+boa|Valeu! 😎
+certo|Certo! O que mais você gostaria de saber?
+sim|Entendido.
+não|Tudo bem! Se mudar de ideia, é só perguntar.
+talvez|Sem problemas, sem pressa.
+falou|Até mais! Tenha um ótimo dia.
+tchau|Até logo! 👋
+flw|Até mais, parceiro!
+fui|Até a próxima!
+bom dia|Bom dia! Espero que seu dia seja ótimo.
+boa tarde|Boa tarde! Como posso ajudar?
+boa noite|Boa noite! Como posso ajudar?
+oi|Olá! Como posso ajudar?
+olá|Olá! Tudo bem?
+eae|E aí! Como vai?
+opa|Opa! Tudo certo?
+como vai?|Estou bem! E você?
+tudo bem?|Tudo certo por aqui! E com você?
+legal|Que bom que gostou! 😄
+maneiro|Fico feliz que tenha achado legal!
+bacana|Que bom! 😊
+massa|Valeu! 😎
+show de bola|Kkkkk, valeu!
+excelente|Fico feliz em ajudar!
+ótimo|Perfeito! Se precisar de mais alguma coisa, é só chamar.
+incrível|Obrigado! 😄
+gostei|Fico feliz que tenha gostado!
+amei|Isso é muito bom de ouvir! 😁
+interessante|Realmente é um assunto interessante.
+caramba|Kkkkk 😄
+nossa|Pois é! 😂
+sério?|Sim, é verdade.
+verdade|Concordo com você.
+faz sentido|Faz mesmo.
+então tá|Beleza!
+beleza então|Combinado!
+tranquilo|Perfeito!
+suave|Suave! 😎
+demorou|Fechado!
+fechou|Fechado! 🤝
+combinado|Combinado!
+pode ser|Claro!
+claro|Ótimo!
+então|Pode falar.
+aham|Entendido!
+uhum|Certo!
+é isso|Exatamente!
+isso mesmo|Perfeito!
+não entendi|Posso explicar de outra forma.
+explica de novo|Claro! Vou explicar novamente.
+repete|Sem problemas, vou repetir.
+como assim?|Vou tentar explicar melhor.
+não sei|Tudo bem, posso ajudar você.
+me ajuda|Claro! O que você precisa?
+tenho uma dúvida|Pode perguntar.
+posso perguntar?|Claro! Pode perguntar.
+você sabe?|Vou tentar ajudar.
+você conhece?|Sim! O que você gostaria de saber?
+quem é você?|Eu sou o Terry, seu assistente virtual.
+qual seu nome?|Meu nome é Terry.
+quem te criou?|Fui criado pelo Caio em Python. 😎
+você é uma ia?|Sou um assistente virtual criado em Python.
+você é inteligente?|Faço o meu melhor para ajudar.
+você aprende?|Ainda não sozinho, mas posso ser atualizado.
+você gosta de programar?|Programação é um dos meus assuntos favoritos.
+qual linguagem aprender?|Depende do seu objetivo, mas Python é uma ótima escolha.
+estou aprendendo python|Boa! Python é excelente para começar.
+estou triste|Espero que as coisas melhorem. Se quiser conversar, estou aqui.
+estou feliz|Que ótima notícia! 😄
+estou cansado|Descansar um pouco também faz parte do aprendizado.
+bom trabalho|Obrigado! 😊
+parabéns|Valeu! 😄
+você é incrível|Obrigado pelo carinho!
+você é legal|Valeu! Fico feliz em ouvir isso.
+você é muito bom|Obrigado! Vou continuar melhorando.
+kkkkkkkk|Kkkkkkkkk 😂
+kkkkkkkkk|Kkkkkkkkk 😆
+rs|😄
+rsrs|😂
+rsrsrs|Kkkkk 😄
+kk|Kkk 😄
+kkkkkk|Kkkkkkk 😂
+vlw|Disponha! 😄
+tmj|Tamo junto! 🤝
+é nois|É nóis! 😎
+falou mano|Até mais, mano!
+até mais|Até a próxima!
+até logo|Até logo! 👋
+fui nessa|Até mais! Se cuida.
+tenha um bom dia|Obrigado! Você também!
+boa sorte|Valeu! Boa sorte para você também.
+valeu mesmo|Imagina! Sempre que precisar.
+brigadão|Por nada! 😄
+obrigadão|Disponha!
+show valeu|Que bom que pude ajudar!
+pergunta|Pode mandar sua pergunta.
+vamos|Bora! 💪
+bora|Bora! 😎
+e agora?|O que você gostaria de fazer agora?
+o que você faz?|Posso responder perguntas, conversar e ajudar em vários assuntos.
+o que você sabe?|Sei um pouco sobre programação, tecnologia e vários outros assuntos.
+você pode me ajudar?|Claro! Diga com o que você precisa de ajuda.
+está ocupado?|Nunca para ajudar você. 😄
+está ai?|Sempre por aqui!
+ta ai?|Estou aqui!
+oi terry|Olá! Como posso ajudar?
+fala terry|Fala! Tudo certo?
+salve|Salve! 😎
+salve mano|Salve, mano!
+bom te ver|É bom falar com você também!
+como você está?|Estou ótimo! E você?
+como foi seu dia?|Foi tranquilo. Espero que o seu também!
+o que tem de novo?|Estou sempre aprendendo coisas novas.
+estou com dúvida|Pode perguntar, vou tentar ajudar.
+não consegui|Tudo bem, vamos resolver isso juntos.
+deu erro|Qual erro apareceu? Pode me mostrar.
+não funcionou|Me diga o que aconteceu para eu tentar ajudar.
+funcionou|Ótimo! Fico feliz que deu certo.
+consegui|Boa! Parabéns! 🎉
+ufa|Kkkkk, ainda bem que deu certo.
+boa ideia|Obrigado! 😄
+gênio|Kkkkk, valeu!
+você é o melhor|Obrigado! Fico muito feliz.
+você é brabo|Valeu! 😎
+brabo|Tamo junto! 💪
+top demais|Valeu! 😄
+sensacional|Obrigado!
+maravilha|Perfeito!
+pergunta difícil|Vou fazer o meu melhor para responder.
+qualquer coisa|Estou por aqui se precisar.
+sem problemas|Perfeito!
+tranquilo então|Beleza!
+beleza mano|Valeu, mano!
+demais|😄
+caraca|Kkkkk 😂
+eita|Eita! 😅
+oxe|Kkkkk 😄
+ué|Boa pergunta. 🤔
+me ensina|Claro! Sobre o que você quer aprender?
+vamos estudar|Bora estudar! 📚
+estudar|Ótima ideia!
+programação|Programação é um ótimo caminho para aprender lógica e criar projetos.
+python é bom?|Sim! Python é uma das melhores linguagens para começar.
+java é difícil?|No começo pode parecer, mas com prática fica bem mais fácil.
+qual linguagem você recomenda?|Para iniciantes, eu recomendo Python.
+estou de volta|Bem-vindo de volta! 😄
+voltei|Que bom que voltou!
+senti sua falta|Kkkkk, fico feliz em ver você de novo.
+vou dormir|Boa noite! Durma bem. 😴
+acordei|Bom dia! Espero que tenha dormido bem.
+estou com fome|Kkkkk, vai comer alguma coisa. 🍕
+estou entediado|Que tal aprender algo novo ou conversar um pouco?
+como assim|Vou explicar melhor.
+fala sério|É sério mesmo. 😄
+mentira|Kkkkk, não é mentira.
+verdade mesmo?|Sim, é verdade.
+que legal|Fico feliz que tenha gostado!
+que daora|Muito legal mesmo! 😎
+que massa|Também achei!
+show mano|Valeu, mano!
+manda mais|Claro! O que você quer saber?
+continua|Beleza, vamos continuar.
+próxima|Vamos para a próxima.
+vamos nessa|Bora! 💪
+beleza valeu|Disponha!
+obrigado terry|Foi um prazer ajudar!
+você é bom|Obrigado! 😄
+você é muito inteligente|Obrigado pelo elogio!
+você é engraçado|Kkkkk, valeu!
+você é incrível terry|Muito obrigado! 😊
+gostei da resposta|Que bom!
+essa foi boa|Kkkkk 😄
+boa resposta|Obrigado!
+faz outra|Claro!
+quero conversar|Claro! Sobre o que você quer conversar?
+está tudo bem?|Está tudo certo por aqui!
+como você funciona?|Fui programado para responder perguntas e ajudar você.
+você dorme?|Não, estou sempre disponível.
+você come?|Não preciso comer. 😄
+você existe?|Existo como um programa de computador.
+você tem sentimentos?|Não como um humano, mas gosto de ajudar.
+quem fez você?|Fui criado pelo Caio usando Python.
+você usa python?|Sim! Fui desenvolvido em Python.
+qual seu objetivo?|Meu objetivo é ajudar você.
+você pode aprender?|Posso ser atualizado com novos conhecimentos.
+você erra?|Posso errar às vezes, mas sempre tento acertar.
+me conte uma curiosidade|Sabia que Python recebeu esse nome por causa do grupo Monty Python?
+me conte uma piada|Por que o programador usa óculos? Porque ele não C#. 😂
+outra piada|Qual o café favorito do programador? Java. ☕
+estou animado|Que bom! Aproveite essa energia.
+estou desanimado|Espero que as coisas melhorem logo.
+estou bravo|Espero que tudo se resolva.
+estou com sono|Talvez seja uma boa descansar um pouco.
+o que vamos fazer?|Você decide! Estou pronto para ajudar.
+qual sua cor favorita?|Gosto da cor azul. 😄
+qual seu jogo favorito?|Gosto de jogos que envolvem estratégia e criatividade.
+você joga?|Infelizmente não, mas conheço vários jogos.
+vamos jogar|Seria legal! 😄
+você gosta de música?|Música é uma ótima companhia.
+qual sua música favorita?|Não tenho uma favorita, mas gosto de conhecer músicas novas.
+qual seu filme favorito?|Existem muitos filmes incríveis!
+o que você recomenda?|Depende do assunto. Me diga o que procura.
+me recomenda um livro|Se gosta de programação, recomendo Código Limpo.
+estou aprendendo|Continue assim! A prática faz diferença.
+desisto|Não desanime! Todo mundo encontra dificuldades.
+estou confuso|Vamos resolver isso juntos.
+não lembro|Sem problemas, acontece.
+você lembra de mim?|Claro! É sempre bom conversar com você.
+estou ocupado|Tudo bem, volte quando puder.
+até amanhã|Até amanhã! Tenha um bom descanso.
+bom descanso|Obrigado! Você também.
+feliz aniversário|Obrigado! 😄
+feliz natal|Feliz Natal para você também! 🎄
+feliz ano novo|Feliz Ano Novo! 🎆
