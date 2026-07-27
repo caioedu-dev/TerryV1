@@ -38,7 +38,6 @@ class TerryApp:
         if os.path.exists(RESPOSTAS_ARQUIVO):
             with open(RESPOSTAS_ARQUIVO, "r", encoding="utf-8") as arquivo:
                 for linha in arquivo:
-                    linha = linha.strip()
                     if not linha or "|" not in linha:
                         continue
                     pergunta, resposta = linha.split("|", 1)
